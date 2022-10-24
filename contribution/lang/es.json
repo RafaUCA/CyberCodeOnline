@@ -38,7 +38,7 @@
  	 	 	 	 	"vars": [
  	 	 	 	 	 	"amount"
  	 	 	 	 	],
- 	 	 	 	 	"trans": "${amount} bitcoin serán depositados en la cuenta de tu Banda, esto no puede revertirse",
+ 	 	 	 	 	"trans": "${amount} bitcoin serán depositados en la cuenta de tu banda, esto no puede revertirse",
  	 	 	 	 	"eng": "${amount} bitcoin will be deposit into your gang account, this cannot be reversed"
  	 	 	 	}
  	 	 	},
@@ -105,7 +105,7 @@
  	 	 	},
  	 	 	"occupation": {
  	 	 	 	"noClan": {
- 	 	 	 	 	"trans": "Ninguna Banda ha ocupado este área todavía",
+ 	 	 	 	 	"trans": "Ninguna banda ha ocupado este área todavía",
  	 	 	 	 	"eng": "No gang has occupied this area yet"
  	 	 	 	}
  	 	 	},
@@ -116,7 +116,7 @@
  	 	},
  	 	"communityContentBox": {
  	 	 	"title": {
- 	 	 	 	"trans": "Contenido de la comunidad",
+ 	 	 	 	"trans": "Contenido de la Comunidad",
  	 	 	 	"eng": "Community Content"
  	 	 	},
  	 	 	"description": {
@@ -128,7 +128,7 @@
  	 	 	"colors": {
  	 	 	 	"win": {
  	 	 	 	 	"title": {
- 	 	 	 	 	 	"trans": "Descifrado exitoso",
+ 	 	 	 	 	 	"trans": "Desencriptado exitoso",
  	 	 	 	 	 	"eng": "Decryption successful"
  	 	 	 	 	},
  	 	 	 	 	"description": {
@@ -156,7 +156,7 @@
  	 	 	 	},
  	 	 	 	"lose": {
  	 	 	 	 	"title": {
- 	 	 	 	 	 	"trans": "Descifrado fallido",
+ 	 	 	 	 	 	"trans": "Desencriptado fallido",
  	 	 	 	 	 	"eng": "Decryption failed"
  	 	 	 	 	},
  	 	 	 	 	"description": {
@@ -165,7 +165,7 @@
  	 	 	 	 	},
  	 	 	 	 	"button": {
  	 	 	 	 	 	"title": {
- 	 	 	 	 	 	 	"trans": "Intentalo nuevamente",
+ 	 	 	 	 	 	 	"trans": "Intentalo de nuevo",
  	 	 	 	 	 	 	"eng": "Try Again"
  	 	 	 	 	 	}
  	 	 	 	 	}
@@ -298,7 +298,7 @@
  	 	 	 	"eng": "Reestablishing connection"
  	 	 	},
  	 	 	"notAtBottom": {
- 	 	 	 	"trans": "Estás leyendo mensajes viejos",
+ 	 	 	 	"trans": "Estás leyendo mensajes antiguos",
  	 	 	 	"eng": "You are looking at old messages"
  	 	 	},
  	 	 	"replyTo": {
@@ -344,7 +344,7 @@
  	 	 	 	"eng": "mail"
  	 	 	},
  	 	 	"noti": {
- 	 	 	 	"trans": "notif.",
+ 	 	 	 	"trans": "noti.",
  	 	 	 	"eng": "noti."
  	 	 	}
  	 	},
@@ -372,14 +372,14 @@
  	 	"clanPage": {
  	 	 	"createClan": {
  	 	 	 	"title": {
- 	 	 	 	 	"trans": "No eres miembro de alguna banda",
+ 	 	 	 	 	"trans": "No eres miembro de ninguna banda",
  	 	 	 	 	"eng": "You are not a member of any gang"
  	 	 	 	},
  	 	 	 	"subtitle": {
  	 	 	 	 	"vars": [
  	 	 	 	 	 	"cost"
  	 	 	 	 	],
- 	 	 	 	 	"trans": "Chat de bandas se habilitará cuando perteneces a una de ellas.\\nÚnete a una banda haciéndote amigos en el chat global o creala tu misma e invita a tus compañeros.",
+ 	 	 	 	 	"trans": "El chat de bandas se habilitará cuando pertenezcas a una de ellas.\\nÚnete a una banda haciéndote amigos en el chat global o créala tu mismo e invita a tus amigos.",
  	 	 	 	 	"eng": "gang chat will be enabled when you belong to a gang.\\njoin a gang by making friends in global chat or create your own gang and invite your friends!"
  	 	 	 	},
  	 	 	 	"createButton": {
@@ -406,7 +406,7 @@
  	 	 	 	"eng": "SL Medical Center"
  	 	 	},
  	 	 	"title": {
- 	 	 	 	"trans": "Plano",
+ 	 	 	 	"trans": "Paro Cardíaco",
  	 	 	 	"eng": "Flatlined"
  	 	 	},
  	 	 	"subTitleSmall": {
@@ -472,7 +472,7 @@
  	 	 	 	"eng": "Dungeon List"
  	 	 	},
  	 	 	"links": {
- 	 	 	 	"trans": "enlaces",
+ 	 	 	 	"trans": "Enlaces",
  	 	 	 	"eng": "links"
  	 	 	},
  	 	 	"premiumShop": {
@@ -507,7 +507,7 @@
  	 	 	 	 	"eng": "Global Skip (${timeSkipMinutes} Min, Cost ${timeSkipCost} Units)"
  	 	 	 	},
  	 	 	 	"description": {
- 	 	 	 	 	"trans": "El Salto Global te permite omitir el tiempo de espera AFK y finalizarlo al instante.\r\n    Este efecto se aplicará a todos los jugadores que estén realizando tareas AFK",
+ 	 	 	 	 	"trans": "El Salto Global te permite omitir el tiempo de espera AFK y finalizarlo instantáneamente.\r\n    Este efecto se aplicará a todos los jugadores que estén realizando tareas AFK",
  	 	 	 	 	"eng": "Global Skip allow you to skip the AFK waiting time, and finish it instantly.\r\n    this effect will be applied to all player performing AFK task"
  	 	 	 	}
  	 	 	},
@@ -645,7 +645,7 @@
  	 	 	 	]
  	 	 	},
  	 	 	"areaEffect": {
- 	 	 	 	"trans": "[AOE] Área de Efecto, el efecto de este objeto se te aplicará a ti y a tus aliados en combate.",
+ 	 	 	 	"trans": "[ADE] Área de Efecto, el efecto de este objeto se te aplicará a ti y a tus aliados en combate.",
  	 	 	 	"eng": "[AOE] Area of Effect, the effect of this item will apply allies in combat with you."
  	 	 	},
  	 	 	"equip": {
@@ -673,7 +673,7 @@
  	 	 	 	"eng": "Lock"
  	 	 	},
  	 	 	"lockDescription": {
- 	 	 	 	"trans": "Previene la venta o destrucción accidental",
+ 	 	 	 	"trans": "Evita la venta o destrucción accidental",
  	 	 	 	"eng": "Prevents accidental selling or destroying"
  	 	 	},
  	 	 	"cantPrintWhileInCombat": {
@@ -728,7 +728,7 @@
  	 	 	 	 	"eng": "You no longer have this item"
  	 	 	 	},
  	 	 	 	"description": {
- 	 	 	 	 	"trans": "Presiona \"atras\" para volver al inventario",
+ 	 	 	 	 	"trans": "Presiona \"atrás\" para volver al inventario",
  	 	 	 	 	"eng": "press back to go back to inventory"
  	 	 	 	}
  	 	 	}
@@ -825,7 +825,7 @@
  	 	 	 	"eng": "Skipping ${skipCount}"
  	 	 	},
  	 	 	"skipAvailable": {
- 	 	 	 	"trans": "Omición disponible",
+ 	 	 	 	"trans": "Salto disponible",
  	 	 	 	"eng": "Skip Available"
  	 	 	}
  	 	},
@@ -959,7 +959,7 @@
  	 	 	 	 	"eng": "Error"
  	 	 	 	},
  	 	 	 	"subtitle": {
- 	 	 	 	 	"trans": "Falla crítica acumulada",
+ 	 	 	 	 	"trans": "Error crítico acumulado",
  	 	 	 	 	"eng": "Destructive failure accrued"
  	 	 	 	}
  	 	 	},
@@ -1043,7 +1043,7 @@
  	 	 	},
  	 	 	"stall": {
  	 	 	 	"sellItemButton": {
- 	 	 	 	 	"trans": "Poner Objeto a la venta",
+ 	 	 	 	 	"trans": "Poner Objeto en venta",
  	 	 	 	 	"eng": "Put Item On Sale"
  	 	 	 	},
  	 	 	 	"selectItemForSale": {
@@ -1134,13 +1134,13 @@
  	 	 	 	 	 	"eng": "Get even better equipments!"
  	 	 	 	 	},
  	 	 	 	 	"description": {
- 	 	 	 	 	 	"trans": "Tu equipamiento actual es obsoleto para tu nivel, intenta imprimir equipo más fuerte para reemplazarlo",
+ 	 	 	 	 	 	"trans": "Tu equipamiento actual parece obsoleto para tu nivel, intenta imprimir equipo más fuerte para reemplazarlo",
  	 	 	 	 	 	"eng": "Your current equipment seems abit outdated for your level, try printing stronger ones to replace them"
  	 	 	 	 	}
  	 	 	 	},
  	 	 	 	"noUpgrade": {
  	 	 	 	 	"title": {
- 	 	 	 	 	 	"trans": "¡Mejorá tu equippamiento!",
+ 	 	 	 	 	 	"trans": "¡Mejora tu equipo!",
  	 	 	 	 	 	"eng": "Upgrade your equipment!"
  	 	 	 	 	},
  	 	 	 	 	"description": {
@@ -1157,13 +1157,13 @@
  	 	 	 	 	 	"eng": "Use AI Core"
  	 	 	 	 	},
  	 	 	 	 	"description": {
- 	 	 	 	 	 	"trans": "Parece que tienes algunos núcleos de AI, úsalos para nivelar automaticamente AFK en un área adecuada.",
+ 	 	 	 	 	 	"trans": "Parece que tienes algunos núcleos de IA, úsalos para nivelar automaticamente AFK en un área adecuada.",
  	 	 	 	 	 	"eng": "Looks like you have some AI Cores, use them to do AFK auto leveling in appropriate level area."
  	 	 	 	 	}
  	 	 	 	},
  	 	 	 	"noAiCore": {
  	 	 	 	 	"title": {
- 	 	 	 	 	 	"trans": "Adquiere Núcleos de IA",
+ 	 	 	 	 	 	"trans": "Consigue Núcleos de IA",
  	 	 	 	 	 	"eng": "Acquire AI Cores"
  	 	 	 	 	},
  	 	 	 	 	"description": {
@@ -1189,7 +1189,7 @@
  	 	 	 	 	 	"eng": "Cyberspace breach in progress"
  	 	 	 	 	},
  	 	 	 	 	"subtitle": {
- 	 	 	 	 	 	"trans": "Une fuerzas con jugadores para infiltrarte en la Fortaleza de Datos-SL y otorgar una mejora a todos los Netrunners",
+ 	 	 	 	 	 	"trans": "Une fuerzas con netrunners para infiltrarte en la Fortaleza de Datos-SL y otorgar una mejora a todos los jugadores",
  	 	 	 	 	 	"eng": "Join forces with other Netrunners to breach the SL-Data Fortress to grant all players with buff"
  	 	 	 	 	}
  	 	 	 	},
@@ -1199,7 +1199,7 @@
  	 	 	 	 	 	"eng": "Breach operation completed"
  	 	 	 	 	},
  	 	 	 	 	"subtitle": {
- 	 	 	 	 	 	"trans": "Desplegando explotación remoto, paciencia...",
+ 	 	 	 	 	 	"trans": "Desplegando explotación remoto, espere...",
  	 	 	 	 	 	"eng": "Remote exploit deploying, please wait..."
  	 	 	 	 	}
  	 	 	 	}
@@ -1244,7 +1244,7 @@
  	 	 	 	 	"eng": "1. You created multiple accounts to gain unfair advantage"
  	 	 	 	},
  	 	 	 	"3": {
- 	 	 	 	 	"trans": "2. Utilizaste softwares o programas automatizados para ganar ventajas injustas, tales como Autoclicker, Bots, etc.",
+ 	 	 	 	 	"trans": "2. Utilizaste algún tipo de software automatizado para ganar ventajas injustas, tales como autoclicker, bots, etc.",
  	 	 	 	 	"eng": "2. You have used some kind of automated software to gain unfair advantage, such as autoclicker, bots, etc."
  	 	 	 	},
  	 	 	 	"4": {
@@ -1257,13 +1257,13 @@
  	 	 	 	}
  	 	 	},
  	 	 	"content": {
- 	 	 	 	"trans": "Si tienes preguntas, ponte en contacto con DEXTER a través del Discord oficial (el enlace se encuentra en el Menú Flotante -> Enlaces) o enviando un correo electrónico a ching.huang.dexter@gmail.com",
+ 	 	 	 	"trans": "Si tienes preguntas, ponte en contacto con Dxter a través del Discord oficial (el enlace se encuentra en el Menú Flotante -> Enlaces) o enviando un correo electrónico a ching.huang.dexter@gmail.com",
  	 	 	 	"eng": "If you have any questions please feel free to contact Dexter directly via official Discord (Link can be found in Floating Menu -> Links) or email to ching.huang.dexter@gmail.com"
  	 	 	}
  	 	},
  	 	"tipsBox": {
  	 	 	"title": {
- 	 	 	 	"trans": "Consejos de un Pro",
+ 	 	 	 	"trans": "Consejos Pro",
  	 	 	 	"eng": "Pro Tips"
  	 	 	},
  	 	 	"description": {
@@ -1432,7 +1432,7 @@
  	 	},
  	 	"job": {
  	 	 	"cantEnterError": {
- 	 	 	 	"trans": "Necesitas ser Nivel 2 para acceder al Área Comercial de Shangri-La",
+ 	 	 	 	"trans": "Necesitas ser nivel 2 para acceder al Área Comercial de Shangri-La",
  	 	 	 	"eng": "You need to be at least level 2 to access the job hub"
  	 	 	}
  	 	},
@@ -1499,7 +1499,7 @@
  	 	 	 	 	"vars": [
  	 	 	 	 	 	"percent"
  	 	 	 	 	],
- 	 	 	 	 	"trans": "¿Deseas calibrar este objeto con ${percent}% de posibilidad de que falle?",
+ 	 	 	 	 	"trans": "¿Deseas calibrar este objeto con ${percent}% de posibilidad de fallo crítico?",
  	 	 	 	 	"eng": "Are you sure you want to calibrate this item with ${percent}% destructive failure chance?"
  	 	 	 	}
  	 	 	}
@@ -1621,7 +1621,7 @@
  	 	 	 	 	"eng": "Dungeons"
  	 	 	 	},
  	 	 	 	"des": {
- 	 	 	 	 	"trans": "En las Mazmorras, no te sanarás luego de cada pelea y los enemigos son más fuertes, pero hay más EXP y botines",
+ 	 	 	 	 	"trans": "En las Mazmorras, no te curarás después de cada combate y los enemigos son más fuertes, pero hay más EXP y botines",
  	 	 	 	 	"eng": "In dungeons, you will not heal after each fight, and enemies are stronger, but there are more exp and loots"
  	 	 	 	}
  	 	 	},
@@ -1639,7 +1639,7 @@
  	 	 	 	"trans": "Deberías comprar algún objeto curativo primero",
  	 	 	 	"eng": "Maybe buy some healing item first?",
  	 	 	 	"des": {
- 	 	 	 	 	"trans": "Parece que no tienes ningun Analgesico contigo, cómpralos en el Mercado Trinoky en la ciudad antes de entrar en Mazmorras, ya que no regeneras HP después de cada pelea",
+ 	 	 	 	 	"trans": "Parece que no tienes ningún Analgásico, cómpralos en el Mercado Trinoky en la ciudad antes de entrar en Mazmorras, ya que no recuperas salud después de cada pelea",
  	 	 	 	 	"eng": "Seems like you dont have any Pain Away with you, purchase it from Trinoky Mart in the city first before entering dungeons, since you will not regen after battles in dungeon"
  	 	 	 	},
  	 	 	 	"cancel": {
@@ -1665,7 +1665,7 @@
  	 	 	 	 	"eng": "Emblems"
  	 	 	 	},
  	 	 	 	"owned": {
- 	 	 	 	 	"trans": "adquiridos",
+ 	 	 	 	 	"trans": "en propiedad",
  	 	 	 	 	"eng": "owned"
  	 	 	 	},
  	 	 	 	"buyConfirm": {
@@ -1869,7 +1869,7 @@
  	 	 	},
  	 	 	"preventDestructionButton": {
  	 	 	 	"title": {
- 	 	 	 	 	"trans": "Prevenir la Destrucción",
+ 	 	 	 	 	"trans": "Evitar la Destrucción",
  	 	 	 	 	"eng": "Prevent Destruction"
  	 	 	 	}
  	 	 	},
@@ -1878,7 +1878,7 @@
  	 	 	 	"eng": "Chance of safe failure"
  	 	 	},
  	 	 	"failureRate": {
- 	 	 	 	"trans": "Posibilidad de falla crítica",
+ 	 	 	 	"trans": "Posibilidad de fallo crítico",
  	 	 	 	"eng": "Chance of destructive failure"
  	 	 	},
  	 	 	"notActivated": {
@@ -2016,7 +2016,7 @@
  	 	 	 	"vars": [
  	 	 	 	 	"level"
  	 	 	 	],
- 	 	 	 	"trans": "Necesitas tener al menos nivel ${level} para chatear",
+ 	 	 	 	"trans": "Necesitas tener al menos nivel ${level} para hablar",
  	 	 	 	"eng": "You need to be at least level ${level} to chat"
  	 	 	}
  	 	},
@@ -2084,7 +2084,7 @@
  	 	 	 	 	 	"eng": "Delete Account"
  	 	 	 	 	},
  	 	 	 	 	"placeholder": {
- 	 	 	 	 	 	"trans": "Ingresa el nombre de tu personaje que quieras eliminar",
+ 	 	 	 	 	 	"trans": "Introduce el nombre del personaje a borrar",
  	 	 	 	 	 	"eng": "Enter your character name to delete"
  	 	 	 	 	}
  	 	 	 	},
@@ -2136,7 +2136,7 @@
  	 	 	 	"eng": "rules"
  	 	 	},
  	 	 	"faq": {
- 	 	 	 	"trans": "Preguntas Frecuentes",
+ 	 	 	 	"trans": "FAQs",
  	 	 	 	"eng": "faq"
  	 	 	},
  	 	 	"referral": {
@@ -2217,14 +2217,14 @@
  	 	 	 	 	"eng": "Please select an container to unlock"
  	 	 	 	},
  	 	 	 	"title": {
- 	 	 	 	 	"trans": "Envase",
+ 	 	 	 	 	"trans": "Contenedor",
  	 	 	 	 	"eng": "Container"
  	 	 	 	},
  	 	 	 	"trans": "Seleccionar contenedor",
  	 	 	 	"eng": "Select Container"
  	 	 	},
  	 	 	"hint": {
- 	 	 	 	"trans": "Desbloquear un contenedor para que se encuentre los artículos dentro, requiere una pequeña cantidad de restos tecnológicos",
+ 	 	 	 	"trans": "Desbloquear un contenedor para obtener los artículos de su interior, requiere una pequeña cantidad de restos tecnológicos",
  	 	 	 	"eng": "Unlock a container to get the items inside, requires small amount of tech scraps"
  	 	 	},
  	 	 	"increaseEpicDropRate": {
@@ -2236,7 +2236,7 @@
  	 	 	 	 	"vars": [
  	 	 	 	 	 	"itemName"
  	 	 	 	 	],
- 	 	 	 	 	"trans": "Reciba hasta 2% (0.5% por contenedor legendario) Oportunidad adicional de obtener caché de nivel épico al desbloquear un contenedor legendario bloqueado activando ${itemName}",
+ 	 	 	 	 	"trans": "Reciba hasta 2% (0.5% por contenedor legendario) adicional de probabilidad de obtener caché de nivel épico al desbloquear un contenedor legendario bloqueado activando ${itemName}",
  	 	 	 	 	"eng": "Receive up to 2% (0.5% per Legendary Container) additional chance to get epic tier cache when unlocking Locked Legendary Container by activating ${itemName}"
  	 	 	 	}
  	 	 	},
@@ -2276,7 +2276,7 @@
  	 	 	"eng": "Shield"
  	 	},
  	 	"health": {
- 	 	 	"trans": "Vida",
+ 	 	 	"trans": "Salud",
  	 	 	"eng": "Health"
  	 	},
  	 	"confirm": {
@@ -2316,7 +2316,7 @@
  	 	 	"eng": "Amount"
  	 	},
  	 	"itemUpgradeCapacity": {
- 	 	 	"trans": "Capacidad de Colaboración",
+ 	 	 	"trans": "Capacidad de Calibración",
  	 	 	"eng": "Calibration Capacity"
  	 	},
  	 	"globalEffects": {
@@ -2397,7 +2397,7 @@
  	 	 	 	"eng": "Name cannot contain spaces, you may replace the space with \"_\""
  	 	 	},
  	 	 	"tooShort": {
- 	 	 	 	"trans": "El nombre debe tener 4 carácteres como mínimo",
+ 	 	 	 	"trans": "El nombre debe tener al menos 4 caracteres",
  	 	 	 	"eng": "Name must be at least 4 characters long"
  	 	 	},
  	 	 	"tooLong": {
@@ -2409,7 +2409,7 @@
  	 	 	"vars": [
  	 	 	 	"time"
  	 	 	],
- 	 	 	"trans": "Hace ${time}",
+n jugador 	 	 	"trans": "Hace ${time}",
  	 	 	"eng": "${time} ago"
  	 	},
  	 	"systemStandby": {
@@ -2424,7 +2424,7 @@
  	"itemLore": {
  	 	"contribution": {
  	 	 	"title": {
- 	 	 	 	"trans": "Contenido Contribuido por un jugador",
+ 	 	 	 	"trans": "Contenido Contribuido por jugadores",
  	 	 	 	"eng": "Player contributed content"
  	 	 	},
  	 	 	"description": {
@@ -2508,7 +2508,7 @@
  	 	},
  	 	"critChance": {
  	 	 	"name": {
- 	 	 	 	"trans": "Probabilidad Crítica",
+ 	 	 	 	"trans": "Probabilidad de crítico",
  	 	 	 	"eng": "Crit chance"
  	 	 	},
  	 	 	"description": {
@@ -2518,11 +2518,11 @@
  	 	},
  	 	"critDamage": {
  	 	 	"name": {
- 	 	 	 	"trans": "Daño Crítico",
+ 	 	 	 	"trans": "Daño crítico",
  	 	 	 	"eng": "Crit damage"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Cantidad de daño hecho al realizar un Ataque Crítico",
+ 	 	 	 	"trans": "Cantidad de daño hecho al realizar un ataque crítico",
  	 	 	 	"eng": "Influence the critical attack damage you deal to the enemy"
  	 	 	}
  	 	},
@@ -2542,7 +2542,7 @@
  	 	 	 	"eng": "Escape"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Probabilidad de escapar de una Mazmorra",
+ 	 	 	 	"trans": "Probabilidad de escapar de un enemigo de mazmorra,
  	 	 	 	"eng": "Chances of you escaping from a dungeon enemy"
  	 	 	}
  	 	},
@@ -2622,7 +2622,7 @@
  	 	 	 	"eng": "Shield multiplier"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Aumenta porcentualmente la dureza del escudo",
+ 	 	 	 	"trans": "Aumenta porcentualmente la fuerza del escudo",
  	 	 	 	"eng": "Increase strength of shield by percentage"
  	 	 	}
  	 	},
@@ -2648,7 +2648,7 @@
  	 	},
  	 	"expMultiplier": {
  	 	 	"name": {
- 	 	 	 	"trans": "Multiplicadór de EXP",
+ 	 	 	 	"trans": "Multiplicador de EXP",
  	 	 	 	"eng": "Exp multiplier"
  	 	 	},
  	 	 	"description": {
@@ -2662,7 +2662,7 @@
  	 	 	 	"eng": "BTC multiplier"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Incrementa BTC que recibes",
+ 	 	 	 	"trans": "Incrementa las BTC que recibes",
  	 	 	 	"eng": "Increase Bitcoins you receive"
  	 	 	}
  	 	},
@@ -2720,11 +2720,11 @@
  	 	},
  	 	"m3Dmg": {
  	 	 	"name": {
- 	 	 	 	"trans": "Nemesis Carroñero",
+ 	 	 	 	"trans": "Nemesis Scav",
  	 	 	 	"eng": "Scavengers Nemesis"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Aumenta el daño causado a los Carroñeros",
+ 	 	 	 	"trans": "Aumenta el daño causado a los Scavengers",
  	 	 	 	"eng": "Increases damage to Enemies of Scavengers gang"
  	 	 	}
  	 	},
